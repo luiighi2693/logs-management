@@ -1,0 +1,61 @@
+{
+    "name": "Log",
+    "fields": [
+        {
+            "fieldName": "url",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "requestItem",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "responseItem",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "status",
+            "fieldType": "Integer"
+        },
+        {
+            "fieldName": "method",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "platform",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "requestTime",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "responseTime",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "duration",
+            "fieldType": "Integer"
+        },
+        {
+            "fieldName": "logged",
+            "fieldType": "Boolean"
+        },
+        {
+            "fieldName": "user",
+            "fieldType": "String"
+        }
+    ],
+    "relationships": [],
+    "changelogDate": "20200427231000",
+    "entityTableName": "log",
+    "dto": "mapstruct",
+    "pagination": "pagination",
+    "service": "serviceClass",
+    "jpaMetamodelFiltering": true,
+    "fluentMethods": true,
+    "readOnly": false,
+    "embedded": false,
+    "clientRootFolder": "",
+    "applications": "*"
+}

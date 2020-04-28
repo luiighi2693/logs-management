@@ -1,0 +1,19 @@
+entity Log {
+  url String
+  requestItem String
+  responseItem String
+  status Integer
+  method String
+  platform String
+  requestTime String
+  responseTime String
+  duration Integer
+  logged Boolean,
+  user String
+}
+
+filter Log
+
+dto Log with mapstruct
+
+paginate Log with pagination
