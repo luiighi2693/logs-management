@@ -35,6 +35,8 @@
     "dtoSuffix": "DTO",
     "otherModules": [],
     "enableTranslation": false,
-    "blueprints": []
+    "blueprints": [],
+    "herokuAppName": "mysterious-bastion-07353",
+    "herokuDeployType": "git"
   }
 }
