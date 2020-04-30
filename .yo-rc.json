@@ -36,7 +36,7 @@
     "otherModules": [],
     "enableTranslation": false,
     "blueprints": [],
-    "herokuAppName": "mysterious-bastion-07353",
-    "herokuDeployType": "git"
+    "herokuAppName": "aqueous-plateau-08405",
+    "herokuDeployType": "jar"
   }
 }

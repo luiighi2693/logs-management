@@ -12,7 +12,7 @@
 
 eureka:
   instance:
-    hostname: mysterious-bastion-07353.herokuapp.com
+    hostname: aqueous-plateau-08405.herokuapp.com
     non-secure-port: 80
     prefer-ip-address: false
 
